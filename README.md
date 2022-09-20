@@ -3,7 +3,7 @@
   Clarkson University.  I have many hobbies, including everything from painting to cooking- and skateboarding to making music.
   
 # Picture of Favorite  Food:
-  
+  ![Alt text](https://cdn.discordapp.com/attachments/872586113074741279/1021831456064032798/IMG_4829.jpg "a title")
 
 # Link to the Software Engineering Site:
   https://www.se.rit.edu/~swen-101/00/index.html
